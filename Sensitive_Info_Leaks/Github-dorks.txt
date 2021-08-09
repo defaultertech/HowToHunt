@@ -6,3 +6,4 @@ filename:.env MAIL_HOST=smtp.gmail.com
 rds.amazonaws.com password
 extension:json mongolab.com
 extension:sql mysql dump
+org:Target  "list_aws_accounts"
